@@ -32,6 +32,7 @@ header {
   color: #0ec8cb;
   font-size: 450%;
   margin: 15px;
+  transition: 0.4s;
 }
 
 .underhead {
@@ -103,4 +104,13 @@ svg {
   display: inline-block;
   margin: 25% 36.5%;
   margin-bottom: 20px;
+  transition: 0.4s;
+}
+
+li:hover svg {
+  transform: rotate(360deg);
+}
+
+.mainhead:hover {
+  transform: scale(1.2);
 }

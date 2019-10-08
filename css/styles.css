@@ -117,3 +117,8 @@ li:hover svg {
 .mainhead:hover {
   transform: scale(1.2);
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

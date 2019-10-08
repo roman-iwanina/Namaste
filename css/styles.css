@@ -90,11 +90,12 @@ p {
   margin-right: 10px;
 }
 
-li:hover {
+ul li:hover {
   background: #00c9cc;
   border: 0;
   color: white;
   fill: white;
+  cursor: pointer;
 }
 
 li:hover p {

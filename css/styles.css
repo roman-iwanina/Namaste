@@ -92,7 +92,7 @@ p {
 
 li:hover {
   background: #00c9cc;
-  border: 0;
+  border-color: #00c9cc;
   color: white;
   fill: white;
   cursor: pointer;

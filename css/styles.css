@@ -90,7 +90,7 @@ p {
   margin-right: 10px;
 }
 
-ul li:hover {
+li:hover {
   background: #00c9cc;
   border: 0;
   color: white;
